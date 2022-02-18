@@ -6,6 +6,13 @@
 
 `npm install`
 
+### Git Tags
+
+`git tag -a v1.4 -m "my version 1.4"`
+Naming convention: ``git tag v1.0 "Comments"``
+
+``git push origin --tags``
+
 ### Git commands
 
 `git log`
